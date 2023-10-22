@@ -9,6 +9,9 @@ login id and password. Users will have all options and features in that applicat
 from western union, money transfer to others, and send cash or money to inter banking as well as
 other banking customers by simply adding them as payees.
 
+![image](https://github.com/pavankalyanchittala/ATM-Simulator-System/assets/117903644/78e06069-7832-49bd-9ad1-d5debe1ebdc4)
+
+
 ## Main Purpose:
 The Traditional way of maintaining details of a user in a bank was to enter the details and record
 them. Every time the user needs to perform some transactions he has to go to bank and perform
